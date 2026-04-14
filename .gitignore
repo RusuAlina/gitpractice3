@@ -1,0 +1,10 @@
+# Ignoră fișierele de sistem macOS
+.DS_Store
+
+# Exercițiul 1: Ignoră toate fișierele .md
+*.md
+
+# Excepție: NU ignora README.md
+!README.md
+
+
